@@ -25,7 +25,7 @@
 <text x="728" y="368" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">결과</text>
 <path d="M24 392L744 392" fill="none"/>
 <text x="40" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오전</text>
-<text x="274" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전고점 돌파 v2</text>
+<text x="274" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">예시 전략 A v2</text>
 <text x="728" y="424" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">판단 완료</text>
 <path d="M24 448L744 448" fill="none"/>
 <text x="40" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오후</text>

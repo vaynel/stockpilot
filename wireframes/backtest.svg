@@ -1,38 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
-<!-- 768 × 1024 -->
-<title id="title">연구·백테스트</title><desc id="desc">가설을 등록하고 같은 조건에서 기준 전략과 성과를 비교한다.</desc>
-<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
-<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
-<path d="M40 32h16 M40 40h16 M40 48h16"/>
-<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
-<path d="M0 80L768 80" fill="none"/>
-<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
-<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">연구·백테스트</text>
-<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">연구 조건</text>
-<text x="24" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">가설</text>
-<rect x="232" y="216" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">거래량 증가 뒤 돌파가 유지되는가</text>
-<text x="24" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">평가 기간</text>
-<rect x="232" y="280" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">2025.01 ~ 2025.12</text>
-<text x="24" y="376" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">비교 대상</text>
-<rect x="232" y="344" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="376" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기준 전략</text>
-<rect x="24" y="456" width="160" height="48" rx="4" fill="#000"/>
-<text x="104" y="488" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">전략 버전 등록</text>
-<rect x="200" y="456" width="152" height="48" rx="4" fill="#fff"/>
-<text x="276" y="488" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">백테스트 실행</text>
-<text x="24" y="536" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">실험 결과</text>
-<rect x="24" y="560" width="720" height="168" rx="4" fill="#fff"/>
-<text x="40" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">구분</text>
-<text x="274" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">수익률</text>
-<text x="728" y="592" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">최대 낙폭</text>
-<path d="M24 616L744 616" fill="none"/>
-<text x="40" y="648" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전고점 돌파 v2</text>
-<text x="274" y="648" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">+4.1%</text>
-<text x="728" y="648" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">-3.2%</text>
-<path d="M24 672L744 672" fill="none"/>
-<text x="40" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기준 전략</text>
-<text x="274" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">+2.8%</text>
-<text x="728" y="704" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">-2.9%</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">연구·백테스트 / 실행 설정</title><desc id="desc">새 연구   ·   운용 전략 0개</desc>
+<rect width="768" height="1024" fill="#fff"/>
+<text x="28" y="43" font-size="20" font-weight="720" fill="#222" text-anchor="start">StockPilot</text>
+<text x="740" y="42" font-size="14" font-weight="500" fill="#555" text-anchor="end">전략·운용   /   전략 관리</text>
+<path d="M28 63 L740 63" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="124" font-size="32" font-weight="720" fill="#222" text-anchor="start">연구·백테스트</text>
+<text x="740" y="121" font-size="14" font-weight="500" fill="#555" text-anchor="end">새 연구   ·   운용 전략 0개</text>
+<text x="28" y="178" font-size="17" font-weight="700" fill="#222" text-anchor="start">실행 설정</text>
+<text x="146" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">실행 결과</text>
+<text x="264" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">팩터 비교</text>
+<path d="M28 195 L740 195" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M28 194 L104 194" fill="none" stroke="#222" stroke-width="3"/>
+<text x="28" y="251" font-size="21" font-weight="680" fill="#222" text-anchor="start">연구 후보</text>
+<text x="740" y="250" font-size="14" font-weight="450" fill="#555" text-anchor="end"></text>
+<rect x="28" y="274" width="712" height="143" rx="5" fill="#fff" stroke="#c4c4c4"/>
+<text x="48" y="312" font-size="19" font-weight="650" fill="#222" text-anchor="start">아직 선택한 후보가 없습니다.</text>
+<text x="48" y="347" font-size="16" font-weight="440" fill="#222" text-anchor="start">공개 구현이나 학습 자료를 연결해 첫 후보를 만드세요.</text>
+<rect x="48" y="361" width="155" height="47" rx="5" fill="#202020" stroke="#202020"/>
+<text x="125.5" y="391" font-size="16" font-weight="650" fill="#fff" text-anchor="middle">후보 만들기</text>
+<text x="240" y="391" font-size="15" font-weight="600" fill="#222" text-anchor="start">저장한 후보 열기  ›</text>
+<text x="28" y="476" font-size="21" font-weight="680" fill="#222" text-anchor="start">후보 유형별 재생 방식</text>
+<text x="740" y="475" font-size="14" font-weight="450" fill="#555" text-anchor="end">후보 버전에 저장</text>
+<rect x="28" y="502" width="346" height="181" rx="5" fill="#fff" stroke="#c4c4c4"/>
+<rect x="390" y="502" width="350" height="181" rx="5" fill="#fff" stroke="#c4c4c4"/>
+<text x="48" y="539" font-size="20" font-weight="700" fill="#222" text-anchor="start">일반 전략</text>
+<text x="410" y="539" font-size="20" font-weight="700" fill="#222" text-anchor="start">단타 전략</text>
+<path d="M50 593 H89 V583 H128 V589 H167 V567 H206 V577 H246" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<path d="M412 587 L428 584 438 594 450 577 467 581 480 555 492 575 510 568 522 588 539 574 550 580 565 565 582 569 601 558" fill="none" stroke="#333" stroke-width="2" stroke-linejoin="round"/>
+<text x="48" y="628" font-size="16" font-weight="630" fill="#222" text-anchor="start">확정 1분봉마다 한 번 평가</text>
+<text x="48" y="658" font-size="14" font-weight="450" fill="#555" text-anchor="start">실운용은 Celery, 재생은 분봉 이력</text>
+<text x="410" y="628" font-size="16" font-weight="630" fill="#222" text-anchor="start">등록한 체결·호가 이벤트로 평가</text>
+<text x="410" y="658" font-size="14" font-weight="450" fill="#555" text-anchor="start">실운용은 WebSocket, 재생은 수집 이력</text>
+<text x="28" y="747" font-size="21" font-weight="680" fill="#222" text-anchor="start">실행 설정</text>
+<text x="740" y="746" font-size="14" font-weight="450" fill="#555" text-anchor="end"></text>
+<path d="M28 773 L740 773" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="803" font-size="15" font-weight="570" fill="#505050" text-anchor="start">규칙과 백테스터</text>
+<text x="204" y="803" font-size="16" font-weight="440" fill="#222" text-anchor="start">후보 선택 후 진입·청산 규칙과 호환 엔진 확인</text>
+<path d="M28 827 L740 827" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="857" font-size="15" font-weight="570" fill="#505050" text-anchor="start">시험 조건</text>
+<text x="204" y="857" font-size="16" font-weight="440" fill="#222" text-anchor="start">시작 회차, 연구·평가 기간, 대상 종목과 배정액</text>
+<path d="M28 881 L740 881" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="911" font-size="15" font-weight="570" fill="#505050" text-anchor="start">자료와 비용</text>
+<text x="204" y="911" font-size="16" font-weight="440" fill="#222" text-anchor="start">필요 이력, 누락 구간, 지연·비용 모형 확인</text>
+<rect x="558" y="947" width="182" height="47" rx="5" fill="#e6e6e6" stroke="#ccc"/>
+<text x="649" y="977" font-size="16" font-weight="650" fill="#555" text-anchor="middle">후보 선택 후 실행</text>
 </svg>

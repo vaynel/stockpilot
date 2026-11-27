@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">연구 후보의 팩터와 매매 조건 편집</title><desc id="desc">일반 전략 연구 예시. 데이터 입력을 확인하고 진입과 청산 조건을 개별 편집한 뒤 새 리비전으로 저장한다.</desc>
+<rect width="768" height="1024" fill="#fff"/>
+<text x="28" y="43" font-size="20" font-weight="720" fill="#222" text-anchor="start">StockPilot</text>
+<text x="740" y="43" font-size="14" font-weight="500" fill="#555" text-anchor="end">전략·운용   /   연구·백테스트</text>
+<path d="M28 63H740" stroke="#ccc"/>
+<text x="28" y="100" font-size="15" font-weight="550" fill="#222" text-anchor="start">‹  후보 A 실행 설정</text>
+<text x="28" y="152" font-size="30" font-weight="720" fill="#222" text-anchor="start">팩터와 매매 조건</text>
+<text x="740" y="148" font-size="15" font-weight="520" fill="#555" text-anchor="end">일반 전략   ·   수정안 예시</text>
+<text x="28" y="194" font-size="15" font-weight="530" fill="#222" text-anchor="start">후보 A  /  원본 r1에서 편집 중</text>
+<text x="740" y="194" font-size="15" font-weight="500" fill="#555" text-anchor="end">확정 1분봉마다 평가</text>
+<path d="M28 217H740" stroke="#ccc"/>
+<text x="28" y="263" font-size="21" font-weight="680" fill="#222" text-anchor="start">사용할 팩터</text>
+<rect x="595" y="232" width="145" height="44" rx="4" fill="#fff" stroke="#aaa"/>
+<text x="667.5" y="260" font-size="15" font-weight="620" fill="#222" text-anchor="middle">+ 팩터 추가</text>
+<text x="28" y="301" font-size="15" font-weight="530" fill="#222" text-anchor="start">출처   Freqtrade 샘플에서 파생</text>
+<text x="740" y="301" font-size="15" font-weight="600" fill="#444" text-anchor="end">원본 파일·커밋 보기  ›</text>
+<text x="40" y="350" font-size="14" font-weight="650" fill="#222" text-anchor="start">팩터</text>
+<text x="245" y="350" font-size="14" font-weight="650" fill="#222" text-anchor="start">입력 자료</text>
+<text x="459" y="350" font-size="14" font-weight="650" fill="#222" text-anchor="start">계산 설정</text>
+<text x="724" y="350" font-size="14" font-weight="650" fill="#222" text-anchor="end">사용처</text>
+<path d="M28 363H740" stroke="#ccc"/>
+<text x="40" y="391" font-size="16" font-weight="450" fill="#222" text-anchor="start">RSI</text>
+<text x="245" y="391" font-size="16" font-weight="450" fill="#222" text-anchor="start">종가</text>
+<text x="459" y="391" font-size="16" font-weight="450" fill="#222" text-anchor="start">14봉</text>
+<text x="724" y="391" font-size="16" font-weight="450" fill="#222" text-anchor="end">진입 · 청산</text>
+<path d="M28 403H740" stroke="#ccc"/>
+<text x="40" y="431" font-size="16" font-weight="450" fill="#222" text-anchor="start">TEMA</text>
+<text x="245" y="431" font-size="16" font-weight="450" fill="#222" text-anchor="start">종가</text>
+<text x="459" y="431" font-size="16" font-weight="450" fill="#222" text-anchor="start">9봉</text>
+<text x="724" y="431" font-size="16" font-weight="450" fill="#222" text-anchor="end">진입</text>
+<path d="M28 443H740" stroke="#ccc"/>
+<text x="40" y="471" font-size="16" font-weight="450" fill="#222" text-anchor="start">거래량</text>
+<text x="245" y="471" font-size="16" font-weight="450" fill="#222" text-anchor="start">분봉 거래량</text>
+<text x="459" y="471" font-size="16" font-weight="450" fill="#222" text-anchor="start">원본 값</text>
+<text x="724" y="471" font-size="16" font-weight="450" fill="#222" text-anchor="end">진입</text>
+<path d="M28 488H740" stroke="#ccc"/>
+<text x="28" y="534" font-size="21" font-weight="680" fill="#222" text-anchor="start">진입 조건</text>
+<text x="740" y="533" font-size="15" font-weight="600" fill="#444" text-anchor="end">조건 추가  +</text>
+<rect x="28" y="553" width="712" height="150" rx="4" fill="#f7f7f7" stroke="#bbb"/>
+<text x="48" y="585" font-size="16" font-weight="660" fill="#222" text-anchor="start">모두 충족 (AND)   ▾</text>
+<text x="48" y="624" font-size="16" font-weight="450" fill="#222" text-anchor="start">RSI가 기준선을 상향 통과</text>
+<rect x="397" y="598" width="88" height="36" rx="4" fill="#fff" stroke="#bbb"/>
+<text x="441" y="622" font-size="16" font-weight="650" fill="#222" text-anchor="middle">35</text>
+<text x="511" y="622" font-size="14" font-weight="450" fill="#555" text-anchor="start">원본 30</text>
+<text x="48" y="676" font-size="16" font-weight="450" fill="#222" text-anchor="start">TEMA가 직전 봉보다 상승</text>
+<text x="399" y="676" font-size="16" font-weight="450" fill="#222" text-anchor="start">분봉 거래량 > 0</text>
+<text x="28" y="751" font-size="21" font-weight="680" fill="#222" text-anchor="start">청산 조건</text>
+<text x="740" y="750" font-size="15" font-weight="600" fill="#444" text-anchor="end">조건 추가  +</text>
+<rect x="28" y="771" width="712" height="65" rx="4" fill="#fff" stroke="#bbb"/>
+<text x="48" y="811" font-size="17" font-weight="530" fill="#222" text-anchor="start">보유 중 RSI가 70을 하향 통과</text>
+<text x="722" y="811" font-size="15" font-weight="550" fill="#444" text-anchor="end">편집  ›</text>
+<text x="28" y="890" font-size="18" font-weight="660" fill="#222" text-anchor="start">변경 1건</text>
+<text x="150" y="890" font-size="16" font-weight="550" fill="#222" text-anchor="start">진입 RSI 기준  30 → 35</text>
+<path d="M28 921H740" stroke="#ccc"/>
+<text x="28" y="970" font-size="15" font-weight="500" fill="#555" text-anchor="start">원본과 같은 재생 조건으로 비교</text>
+<rect x="515" y="940" width="225" height="44" rx="4" fill="#222" stroke="#222"/>
+<text x="627.5" y="968" font-size="15" font-weight="620" fill="#fff" text-anchor="middle">r2로 저장하고 실행 설정</text>
+</svg>

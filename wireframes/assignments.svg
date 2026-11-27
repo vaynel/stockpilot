@@ -1,30 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
-<!-- 768 × 1024 -->
-<title id="title">전략 배정</title><desc id="desc">거래일의 세 회차에 채택한 전략 버전을 배정한다.</desc>
-<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
-<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
-<path d="M40 32h16 M40 40h16 M40 48h16"/>
-<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
-<path d="M0 80L768 80" fill="none"/>
-<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
-<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">전략 배정</text>
-<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">거래일</text>
-<rect x="24" y="216" width="168" height="48" rx="4" fill="#fff"/>
-<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">11월 27일</text>
-<path d="m160 240 8 8 8-8" fill="none"/>
-<rect x="208" y="216" width="136" height="48" rx="4" fill="#fff"/>
-<text x="224" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">채택 전략</text>
-<path d="m312 240 8 8 8-8" fill="none"/>
-<text x="24" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">회차별 배정</text>
-<text x="24" y="368" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오전</text>
-<rect x="232" y="336" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="368" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전고점 돌파 v2</text>
-<text x="24" y="432" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오후</text>
-<rect x="232" y="400" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="432" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">거래량 반등 v3</text>
-<text x="24" y="496" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">장 마감 전</text>
-<rect x="232" y="464" width="512" height="48" rx="4" fill="#fff"/>
-<text x="248" y="496" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">버전 선택</text>
-<rect x="24" y="576" width="120" height="48" rx="4" fill="#000"/>
-<text x="84" y="608" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">배정 저장</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system, system-ui, sans-serif">
+<!-- Tablet 768 × 1024 -->
+<title id="title">전략 배정 · 전체 회차</title><desc id="desc">세 전략을 두 계좌에 배정한 예시. 위 표는 전략과 계좌별 금액, 아래 표는 합계에 포함된 다섯 건의 배정이다.</desc>
+<rect width="768" height="1024" fill="#fff"/>
+<text x="24" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000">StockPilot</text>
+<text x="744" y="48" font-size="14" font-weight="500" text-anchor="end" fill="#000">전략·운용  /  회차 관리</text>
+<path d="M24 72H744" stroke="#000" stroke-width="1.5"/>
+<text x="24" y="136" font-size="28" font-weight="700" text-anchor="start" fill="#000">전략 배정</text>
+<rect x="608" y="96" width="136" height="48" rx="4" fill="#000" stroke="#000" stroke-width="1.5"/>
+<text x="676" y="126" font-size="14" font-weight="600" text-anchor="middle" fill="#fff">+  배정 추가</text>
+<rect x="24" y="168" width="200" height="40" rx="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="40" y="193" font-size="14" font-weight="400" text-anchor="start" fill="#000">거래일    11월 27일  ▾</text>
+<rect x="240" y="168" width="192" height="40" rx="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="256" y="193" font-size="14" font-weight="400" text-anchor="start" fill="#000">계좌    전체 계좌  ▾</text>
+<text x="24" y="258" font-size="14" font-weight="600" text-anchor="start" fill="#000">시작 회차</text>
+<rect x="112" y="232" width="88" height="40" rx="4" fill="#000" stroke="#000" stroke-width="1.5"/>
+<text x="156" y="258" font-size="14" font-weight="600" text-anchor="middle" fill="#fff">전체</text>
+<rect x="208" y="232" width="88" height="40" rx="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="252" y="258" font-size="14" font-weight="600" text-anchor="middle" fill="#000">오전</text>
+<rect x="304" y="232" width="88" height="40" rx="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="348" y="258" font-size="14" font-weight="600" text-anchor="middle" fill="#000">오후</text>
+<rect x="400" y="232" width="120" height="40" rx="4" fill="#fff" stroke="#000" stroke-width="1.5"/>
+<text x="460" y="258" font-size="14" font-weight="600" text-anchor="middle" fill="#000">장 마감 전</text>
+<text x="24" y="344" font-size="20" font-weight="700" text-anchor="start" fill="#000">전략별 배정 금액</text>
+<text x="744" y="344" font-size="14" font-weight="400" text-anchor="end" fill="#000">단위  원</text>
+<rect x="24" y="368" width="720" height="40" fill="#e6e6e6"/>
+<text x="40" y="394" font-size="14" font-weight="650" text-anchor="start" fill="#000">전략 버전</text>
+<text x="416" y="394" font-size="14" font-weight="650" text-anchor="end" fill="#000">키움 주계좌</text>
+<text x="576" y="394" font-size="14" font-weight="650" text-anchor="end" fill="#000">한투 운용계좌</text>
+<text x="728" y="394" font-size="14" font-weight="650" text-anchor="end" fill="#000">전략 합계</text>
+<text x="40" y="442" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 A  v2</text>
+<text x="416" y="442" font-size="14" font-weight="400" text-anchor="end" fill="#000">1,500,000</text>
+<text x="576" y="442" font-size="14" font-weight="400" text-anchor="end" fill="#000">700,000</text>
+<text x="728" y="442" font-size="14" font-weight="650" text-anchor="end" fill="#000">2,200,000</text>
+<text x="40" y="490" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 B  v1</text>
+<text x="416" y="490" font-size="14" font-weight="400" text-anchor="end" fill="#000">800,000</text>
+<text x="576" y="490" font-size="14" font-weight="400" text-anchor="end" fill="#000">—</text>
+<text x="728" y="490" font-size="14" font-weight="650" text-anchor="end" fill="#000">800,000</text>
+<text x="40" y="538" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 C  v3</text>
+<text x="416" y="538" font-size="14" font-weight="400" text-anchor="end" fill="#000">—</text>
+<text x="576" y="538" font-size="14" font-weight="400" text-anchor="end" fill="#000">400,000</text>
+<text x="728" y="538" font-size="14" font-weight="650" text-anchor="end" fill="#000">400,000</text>
+<path d="M24 558H744" stroke="#000" stroke-width="1.5"/>
+<text x="40" y="586" font-size="14" font-weight="650" text-anchor="start" fill="#000">계좌 합계</text>
+<text x="416" y="586" font-size="14" font-weight="650" text-anchor="end" fill="#000">2,300,000</text>
+<text x="576" y="586" font-size="14" font-weight="650" text-anchor="end" fill="#000">1,100,000</text>
+<text x="728" y="586" font-size="14" font-weight="650" text-anchor="end" fill="#000">3,400,000</text>
+<path d="M24 610H744" stroke="#000" stroke-width="1.5"/>
+<text x="24" y="678" font-size="20" font-weight="700" text-anchor="start" fill="#000">종목별 배정 내역</text>
+<text x="744" y="678" font-size="14" font-weight="500" text-anchor="end" fill="#000">5건</text>
+<rect x="24" y="704" width="720" height="40" fill="#e6e6e6"/>
+<text x="32" y="730" font-size="14" font-weight="600" text-anchor="start" fill="#000">계좌</text>
+<text x="176" y="730" font-size="14" font-weight="600" text-anchor="start" fill="#000">시작 회차</text>
+<text x="276" y="730" font-size="14" font-weight="600" text-anchor="start" fill="#000">전략 버전</text>
+<text x="392" y="730" font-size="14" font-weight="600" text-anchor="start" fill="#000">종목</text>
+<text x="646" y="730" font-size="14" font-weight="600" text-anchor="end" fill="#000">배정 금액 (원)</text>
+<text x="32" y="776" font-size="14" font-weight="400" text-anchor="start" fill="#000">키움 주계좌</text>
+<text x="176" y="776" font-size="14" font-weight="400" text-anchor="start" fill="#000">오전</text>
+<text x="276" y="776" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 A  v2</text>
+<text x="392" y="776" font-size="14" font-weight="400" text-anchor="start" fill="#000">삼성전자</text>
+<text x="646" y="776" font-size="14" font-weight="600" text-anchor="end" fill="#000">1,000,000</text>
+<text x="736" y="776" font-size="14" font-weight="400" text-anchor="end" fill="#000">수정</text>
+<text x="32" y="822" font-size="14" font-weight="400" text-anchor="start" fill="#000">키움 주계좌</text>
+<text x="176" y="822" font-size="14" font-weight="400" text-anchor="start" fill="#000">오전</text>
+<text x="276" y="822" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 A  v2</text>
+<text x="392" y="822" font-size="14" font-weight="400" text-anchor="start" fill="#000">현대차</text>
+<text x="646" y="822" font-size="14" font-weight="600" text-anchor="end" fill="#000">500,000</text>
+<text x="736" y="822" font-size="14" font-weight="400" text-anchor="end" fill="#000">수정</text>
+<text x="32" y="868" font-size="14" font-weight="400" text-anchor="start" fill="#000">한투 운용계좌</text>
+<text x="176" y="868" font-size="14" font-weight="400" text-anchor="start" fill="#000">오전</text>
+<text x="276" y="868" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 A  v2</text>
+<text x="392" y="868" font-size="14" font-weight="400" text-anchor="start" fill="#000">삼성전자</text>
+<text x="646" y="868" font-size="14" font-weight="600" text-anchor="end" fill="#000">700,000</text>
+<text x="736" y="868" font-size="14" font-weight="400" text-anchor="end" fill="#000">수정</text>
+<text x="32" y="914" font-size="14" font-weight="400" text-anchor="start" fill="#000">키움 주계좌</text>
+<text x="176" y="914" font-size="14" font-weight="400" text-anchor="start" fill="#000">오후</text>
+<text x="276" y="914" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 B  v1</text>
+<text x="392" y="914" font-size="14" font-weight="400" text-anchor="start" fill="#000">SK하이닉스</text>
+<text x="646" y="914" font-size="14" font-weight="600" text-anchor="end" fill="#000">800,000</text>
+<text x="736" y="914" font-size="14" font-weight="400" text-anchor="end" fill="#000">수정</text>
+<text x="32" y="960" font-size="14" font-weight="400" text-anchor="start" fill="#000">한투 운용계좌</text>
+<text x="176" y="960" font-size="14" font-weight="400" text-anchor="start" fill="#000">장 마감 전</text>
+<text x="276" y="960" font-size="14" font-weight="400" text-anchor="start" fill="#000">전략 C  v3</text>
+<text x="392" y="960" font-size="14" font-weight="400" text-anchor="start" fill="#000">기아</text>
+<text x="646" y="960" font-size="14" font-weight="600" text-anchor="end" fill="#000">400,000</text>
+<text x="736" y="960" font-size="14" font-weight="400" text-anchor="end" fill="#000">수정</text>
+<path d="M24 986H744" stroke="#000" stroke-width="1.5"/>
 </svg>

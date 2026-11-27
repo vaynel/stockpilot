@@ -18,7 +18,7 @@
 <text x="24" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">기존 기록</text>
 <rect x="24" y="336" width="720" height="96" rx="4" fill="#fff"/>
 <text x="40" y="368" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">오전 판단 메모</text>
-<text x="728" y="368" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">돌파 뒤 거래량 지속 여부 확인</text>
+<text x="728" y="368" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">진입 근거와 체결 시각 확인</text>
 <path d="M24 384L744 384" fill="none"/>
 <text x="40" y="416" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">관련 거래</text>
 <text x="728" y="416" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">삼성전자 자동 매수</text>

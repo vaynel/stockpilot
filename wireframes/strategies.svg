@@ -1,35 +1,92 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
-<!-- 768 × 1024 -->
-<title id="title">전략 목록</title><desc id="desc">전략 버전과 채택 여부를 확인하고 연구 결과를 연결한다.</desc>
+<!-- Tablet 768 × 1024 -->
+<title id="title">전략 목록</title><desc id="desc">신호 예시 그림과 버전별 검증 근거로 운용 가능한 전략과 보관한 전략을 비교한다.</desc>
 <rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
 <rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
-<path d="M40 32h16 M40 40h16 M40 48h16"/>
-<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
-<path d="M0 80L768 80" fill="none"/>
-<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
-<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">전략 목록</text>
-<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">전략 버전</text>
-<rect x="24" y="216" width="720" height="168" rx="4" fill="#fff"/>
-<text x="40" y="248" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">이름</text>
-<text x="274" y="248" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">버전</text>
-<text x="728" y="248" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">채택 상태</text>
-<path d="M24 272L744 272" fill="none"/>
-<text x="40" y="304" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전고점 돌파</text>
-<text x="274" y="304" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">v2</text>
-<text x="728" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">채택</text>
-<path d="M24 328L744 328" fill="none"/>
-<text x="40" y="360" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">거래량 반등</text>
-<text x="274" y="360" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">v1</text>
-<text x="728" y="360" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">보류</text>
-<text x="24" y="432" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">선택한 전략</text>
-<rect x="24" y="456" width="720" height="96" rx="4" fill="#fff"/>
-<text x="40" y="488" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">버전</text>
-<text x="728" y="488" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">전고점 돌파 v2</text>
-<path d="M24 504L744 504" fill="none"/>
-<text x="40" y="536" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">검증 근거</text>
-<text x="728" y="536" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">백테스트 BT-12</text>
-<rect x="24" y="600" width="192" height="48" rx="4" fill="#000"/>
-<text x="120" y="632" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">연구·백테스트 열기</text>
-<rect x="232" y="600" width="160" height="48" rx="4" fill="#fff"/>
-<text x="312" y="632" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">채택 결과 저장</text>
+<path d="M40 32h16 M40 40h16 M40 48h16" fill="none" />
+<text x="88" y="48" font-size="20" font-weight="650" fill="#000" stroke="none" text-anchor="start">StockPilot</text>
+<text x="744" y="48" font-size="20" font-weight="600" fill="#000" stroke="none" text-anchor="end">전략·운용</text>
+<path d="M0 80h768" fill="none" />
+<text x="24" y="136" font-size="28" font-weight="700" fill="#000" stroke="none" text-anchor="start">전략 목록</text>
+<text x="744" y="134" font-size="14" font-weight="400" fill="#666" stroke="none" text-anchor="end">등록 후 화면 예시</text>
+<rect x="24" y="160" width="96" height="40" rx="4" fill="#000"/>
+<text x="72" y="186" font-size="14" font-weight="600" fill="#fff" stroke="none" text-anchor="middle">전체 4</text>
+<rect x="128" y="160" width="152" height="40" rx="4" fill="#fff"/>
+<text x="204" y="186" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="middle">자동매매 가능 2</text>
+<rect x="288" y="160" width="128" height="40" rx="4" fill="#fff"/>
+<text x="352" y="186" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="middle">보관·보류 1</text>
+<rect x="424" y="160" width="112" height="40" rx="4" fill="#fff"/>
+<text x="480" y="186" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="middle">미검증 1</text>
+<g transform="translate(24 224)" aria-label="예시 전략 A v2 자동매매 가능">
+<rect x="0" y="0" width="352" height="216" rx="4" fill="#fff"/>
+<text x="16" y="32" font-size="20" font-weight="650" fill="#000" stroke="none" text-anchor="start">예시 전략 A v2</text>
+<text x="336" y="32" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="end">자동매매 가능</text>
+<text x="16" y="62" font-size="14" font-weight="400" fill="#000" stroke="none" text-anchor="start">연구에서 채택한 진입 규칙을 표시합니다.</text>
+<g transform="translate(16 82)" role="img" aria-label="예시 전략 A 신호 예시">
+<path d="M0 18H116" fill="none" stroke="#777" stroke-dasharray="3 3"/>
+<path d="M0 44L14 27 24 35 34 18 46 37 58 28 70 33 86 18 103 4 116 8" fill="none" stroke-width="2.2"/>
+<circle cx="86" cy="18" r="3" fill="#000"/>
+</g>
+<text x="16" y="156" font-size="12" font-weight="400" fill="#666" stroke="none" text-anchor="start">기준선 · 신호 예시</text>
+<text x="152" y="110" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="start">3/3 충족</text>
+<text x="152" y="137" font-size="14" font-weight="400" fill="#666" stroke="none" text-anchor="start">최근 11.27 · 다음 12.04</text>
+<path d="M0 172h352" fill="none" />
+<path d="M204 172v44" fill="none" />
+<text x="102" y="200" font-size="14" font-weight="500" fill="#000" stroke="none" text-anchor="middle">버전·검증 이력</text>
+<text x="278" y="200" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="middle">종목 배정 ›</text>
+</g>
+<g transform="translate(392 224)" aria-label="이평선 되돌림 v1 사용 보류">
+<rect x="0" y="0" width="352" height="216" rx="4" fill="#fff"/>
+<text x="16" y="32" font-size="20" font-weight="650" fill="#000" stroke="none" text-anchor="start">이평선 되돌림 v1</text>
+<text x="336" y="32" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="end">사용 보류</text>
+<text x="16" y="62" font-size="14" font-weight="400" fill="#000" stroke="none" text-anchor="start">상승 중 이동평균선에서 반등하면 진입합니다.</text>
+<g transform="translate(16 82)" role="img" aria-label="이평선 되돌림 신호 예시">
+<path d="M0 45L116 22" fill="none" stroke="#777" stroke-dasharray="3 3"/>
+<path d="M0 46L16 34 28 38 46 12 57 7 74 20 87 28 104 10 116 4" fill="none" stroke-width="2.2"/>
+<circle cx="87" cy="28" r="3" fill="#000"/>
+</g>
+<text x="16" y="156" font-size="12" font-weight="400" fill="#666" stroke="none" text-anchor="start">이동평균선 · 신호 예시</text>
+<text x="152" y="110" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="start">2/3 · 낙폭 초과</text>
+<text x="152" y="137" font-size="14" font-weight="400" fill="#666" stroke="none" text-anchor="start">최근 11.27 · 보관 중</text>
+<path d="M0 172h352" fill="none" />
+<path d="M204 172v44" fill="none" />
+<text x="102" y="200" font-size="14" font-weight="500" fill="#000" stroke="none" text-anchor="middle">버전·검증 이력</text>
+<text x="278" y="200" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="middle">재검증 ›</text>
+</g>
+<g transform="translate(24 456)" aria-label="거래량 반등 v3 자동매매 가능">
+<rect x="0" y="0" width="352" height="216" rx="4" fill="#fff"/>
+<text x="16" y="32" font-size="20" font-weight="650" fill="#000" stroke="none" text-anchor="start">거래량 반등 v3</text>
+<text x="336" y="32" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="end">자동매매 가능</text>
+<text x="16" y="62" font-size="14" font-weight="400" fill="#000" stroke="none" text-anchor="start">가격 반등에 거래량 증가가 동반되면 진입합니다.</text>
+<g transform="translate(16 82)" role="img" aria-label="거래량 반등 신호 예시">
+<path d="M6 50v-4 M18 50v-6 M30 50v-5 M42 50v-7 M54 50v-5 M66 50v-9 M78 50v-14 M90 50v-22 M102 50v-25 M114 50v-19" fill="none" stroke="#777" stroke-width="5"/>
+<path d="M0 10L22 13 39 21 57 28 70 22 87 12 105 4 116 5" fill="none" stroke-width="2.2"/>
+<circle cx="87" cy="12" r="3" fill="#000"/>
+</g>
+<text x="16" y="156" font-size="12" font-weight="400" fill="#666" stroke="none" text-anchor="start">가격과 거래량 · 신호 예시</text>
+<text x="152" y="110" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="start">3/3 충족</text>
+<text x="152" y="137" font-size="14" font-weight="400" fill="#666" stroke="none" text-anchor="start">최근 11.27 · 다음 12.04</text>
+<path d="M0 172h352" fill="none" />
+<path d="M204 172v44" fill="none" />
+<text x="102" y="200" font-size="14" font-weight="500" fill="#000" stroke="none" text-anchor="middle">버전·검증 이력</text>
+<text x="278" y="200" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="middle">종목 배정 ›</text>
+</g>
+<g transform="translate(392 456)" aria-label="종가 전략 v1 미검증">
+<rect x="0" y="0" width="352" height="216" rx="4" fill="#fff"/>
+<text x="16" y="32" font-size="20" font-weight="650" fill="#000" stroke="none" text-anchor="start">종가 전략 v1</text>
+<text x="336" y="32" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="end">미검증</text>
+<text x="16" y="62" font-size="14" font-weight="400" fill="#000" stroke="none" text-anchor="start">장 마감 전 기준 가격 회복 여부를 확인합니다.</text>
+<g transform="translate(16 82)" role="img" aria-label="종가 전략 신호 예시">
+<path d="M0 20H116" fill="none" stroke="#777" stroke-dasharray="3 3"/>
+<path d="M0 33L12 25 24 32 38 39 55 35 72 44 90 28 103 20 116 10" fill="none" stroke-width="2.2"/>
+<circle cx="103" cy="20" r="3" fill="#000"/>
+</g>
+<text x="16" y="156" font-size="12" font-weight="400" fill="#666" stroke="none" text-anchor="start">기준 가격 · 신호 예시</text>
+<text x="152" y="110" font-size="14" font-weight="600" fill="#000" stroke="none" text-anchor="start">최초 검증 전</text>
+<text x="152" y="137" font-size="14" font-weight="400" fill="#666" stroke="none" text-anchor="start">검증 결과 없음</text>
+<path d="M0 172h352" fill="none" />
+<path d="M204 172v44" fill="none" />
+<text x="102" y="200" font-size="14" font-weight="500" fill="#000" stroke="none" text-anchor="middle">버전·검증 이력</text>
+<text x="278" y="200" font-size="14" font-weight="650" fill="#000" stroke="none" text-anchor="middle">백테스트 ›</text>
+</g>
 </svg>

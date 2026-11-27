@@ -34,7 +34,7 @@
     <text x="744" y="552" text-anchor="end" stroke="none" fill="#000" font-size="14">회차 보기 ›</text>
     <text x="368" y="552" stroke="none" fill="#666" font-size="14">감시 중 12종목 · 대기 3종목</text>
     <rect x="24" y="576" width="720" height="56" rx="4"/>
-    <text x="48" y="608" stroke="none" fill="#000" font-size="14">오전　전고점 돌파</text>
+    <text x="48" y="608" stroke="none" fill="#000" font-size="14">오전　예시 전략 A</text>
     <text x="720" y="608" text-anchor="end" stroke="none" fill="#000" font-size="14">조건 감시 중</text>
   </g>
   <g id="orders">

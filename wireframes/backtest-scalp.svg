@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">연구·백테스트 / 실행 설정</title><desc id="desc">단타 전략   ·   설정 예시</desc>
+<rect width="768" height="1024" fill="#fff"/>
+<text x="28" y="43" font-size="20" font-weight="720" fill="#222" text-anchor="start">StockPilot</text>
+<text x="740" y="42" font-size="14" font-weight="500" fill="#555" text-anchor="end">전략·운용   /   전략 관리</text>
+<path d="M28 63 L740 63" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="124" font-size="32" font-weight="720" fill="#222" text-anchor="start">연구·백테스트</text>
+<text x="740" y="121" font-size="14" font-weight="500" fill="#555" text-anchor="end">단타 전략   ·   설정 예시</text>
+<text x="28" y="178" font-size="17" font-weight="700" fill="#222" text-anchor="start">실행 설정</text>
+<text x="146" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">실행 결과</text>
+<text x="264" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">팩터 비교</text>
+<path d="M28 195 L740 195" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M28 194 L104 194" fill="none" stroke="#222" stroke-width="3"/>
+<text x="28" y="249" font-size="21" font-weight="680" fill="#222" text-anchor="start">연구 후보 B  ·  r1</text>
+<text x="740" y="248" font-size="14" font-weight="450" fill="#555" text-anchor="end">후보 변경  ›</text>
+<text x="28" y="283" font-size="15" font-weight="440" fill="#222" text-anchor="start">학습 자료·수정 내역 보기  ›     진입·청산 규칙과 팩터  ›</text>
+<rect x="28" y="302" width="712" height="115" rx="5" fill="#f5f5f5" stroke="#ccc"/>
+<text x="48" y="331" font-size="17" font-weight="650" fill="#222">WebSocket 체결·호가   ·   팩터 2개</text>
+<text x="584" y="331" font-size="15" font-weight="450" fill="#222">팩터 추가·편집  ›</text>
+<text x="48" y="367" font-size="15" font-weight="450" fill="#222">① 최근 10초 체결량 ≥ 후보 기준     ② 최우선 호가 스프레드 ≤ 후보 기준</text>
+<text x="48" y="397" font-size="15" font-weight="450" fill="#222">진입  ① AND ②     /     청산  스프레드가 청산 기준 이상</text>
+<text x="28" y="447" font-size="21" font-weight="680" fill="#222" text-anchor="start">재생 조건</text>
+<text x="740" y="446" font-size="14" font-weight="450" fill="#555" text-anchor="end">조건 편집  ›</text>
+<path d="M28 468 L740 468" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="498" font-size="15" font-weight="570" fill="#505050" text-anchor="start">시작 회차 · 자금</text>
+<text x="204" y="498" font-size="16" font-weight="440" fill="#222" text-anchor="start">오전   /   2종목 각 100만 원   /   초기 현금 200만 원</text>
+<path d="M28 514 L740 514" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="544" font-size="15" font-weight="570" fill="#505050" text-anchor="start">연구 · 평가 기간</text>
+<text x="204" y="544" font-size="16" font-weight="440" fill="#222" text-anchor="start">2025.01–06 연구   /   2025.07–12 평가</text>
+<path d="M28 560 L740 560" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="590" font-size="15" font-weight="570" fill="#505050" text-anchor="start">엔진 · 체결 모형</text>
+<text x="204" y="590" font-size="16" font-weight="440" fill="#222" text-anchor="start">이벤트 재생 어댑터   /   주문 도달 지연·호가 잔량</text>
+<path d="M28 606 L740 606" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="636" font-size="15" font-weight="570" fill="#505050" text-anchor="start">비교 전략 · 비용</text>
+<text x="204" y="636" font-size="16" font-weight="440" fill="#222" text-anchor="start">동일 종목 매수 후 보유   /   수수료·매도세·슬리피지 v1</text>
+<text x="28" y="695" font-size="21" font-weight="680" fill="#222" text-anchor="start">과거 자료 점검</text>
+<text x="740" y="694" font-size="14" font-weight="450" fill="#555" text-anchor="end">자료 버전 D2</text>
+<path d="M28 718 L740 718" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="748" font-size="15" font-weight="570" fill="#505050" text-anchor="start">체결 틱</text>
+<text x="204" y="748" font-size="16" font-weight="440" fill="#222" text-anchor="start">2종목 확보   ·   수신 순서 기록</text>
+<path d="M28 764 L740 764" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="794" font-size="15" font-weight="570" fill="#505050" text-anchor="start">최우선 호가</text>
+<text x="204" y="794" font-size="16" font-weight="440" fill="#222" text-anchor="start">1종목 누락   ·   10.14 09:12–09:18   ·   구간 보기  ›</text>
+<rect x="28" y="824" width="712" height="85" rx="5" fill="#f5f5f5" stroke="#ccc"/>
+<text x="48" y="855" font-size="17" font-weight="650" fill="#222" text-anchor="start">자료 부족  ·  정식 검증 미판정</text>
+<text x="48" y="885" font-size="15" font-weight="450" fill="#555" text-anchor="start">해당 구간의 호가를 확보하거나, 평가 기간을 변경해 새 실행을 만드세요.</text>
+<text x="28" y="968" font-size="15" font-weight="480" fill="#555" text-anchor="start">한투 배정 예시 · 2종목 × 체결·호가 = 4건  ›</text>
+<rect x="548" y="939" width="192" height="47" rx="5" fill="#e6e6e6" stroke="#ccc"/>
+<text x="644" y="969" font-size="16" font-weight="650" fill="#555" text-anchor="middle">필수 호가 누락</text>
+</svg>

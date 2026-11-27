@@ -40,7 +40,7 @@
 <text x="256" y="400" font-size="14" font-weight="500" text-anchor="start" fill="#666" stroke="none">종목 · 방향</text>
 <text x="448" y="400" font-size="14" font-weight="500" text-anchor="start" fill="#666" stroke="none">진행 상태</text>
 <path d="M24 408H744" fill="none" stroke="#e6e6e6"/>
-<text x="40" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">전고점 돌파</text>
+<text x="40" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">예시 전략 A</text>
 <text x="40" y="452" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">키움 주계좌 · 오전</text>
 <text x="256" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
 <text x="256" y="452" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매수</text>
@@ -56,12 +56,12 @@
 <text x="448" y="508" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">보유 3주 · 20일선 이탈 대기</text>
 <text x="728" y="498" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
 <path d="M24 520H744" fill="none" stroke="#e6e6e6"/>
-<text x="40" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">전고점 돌파</text>
+<text x="40" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">예시 전략 A</text>
 <text x="40" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">키움 주계좌 · 오전</text>
 <text x="256" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">SK하이닉스</text>
 <text x="256" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매수</text>
 <text x="448" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">매수 조건 감시 중</text>
-<text x="448" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">직전 고점 돌파 대기</text>
+<text x="448" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">진입 신호 대기</text>
 <text x="728" y="554" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
 <path d="M24 576H744" fill="none" stroke="#e6e6e6"/>
 <text x="40" y="600" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">눌림목 반등</text>

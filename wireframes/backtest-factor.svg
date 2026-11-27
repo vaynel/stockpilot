@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">연구·백테스트 / 팩터 비교</title><desc id="desc">원본과 수정안   ·   예시 수치</desc>
+<rect width="768" height="1024" fill="#fff"/>
+<text x="28" y="43" font-size="20" font-weight="720" fill="#222" text-anchor="start">StockPilot</text>
+<text x="740" y="42" font-size="14" font-weight="500" fill="#555" text-anchor="end">전략·운용   /   전략 관리</text>
+<path d="M28 63 L740 63" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<text x="28" y="124" font-size="32" font-weight="720" fill="#222" text-anchor="start">연구·백테스트</text>
+<text x="740" y="121" font-size="14" font-weight="500" fill="#555" text-anchor="end">원본과 수정안   ·   예시 수치</text>
+<text x="28" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">실행 설정</text>
+<text x="146" y="178" font-size="17" font-weight="450" fill="#222" text-anchor="start">실행 결과</text>
+<text x="264" y="178" font-size="17" font-weight="700" fill="#222" text-anchor="start">팩터 비교</text>
+<path d="M28 195 L740 195" fill="none" stroke="#c4c4c4" stroke-width="1"/>
+<path d="M264 194 L340 194" fill="none" stroke="#222" stroke-width="3"/>
+<text x="28" y="246" font-size="24" font-weight="700" fill="#222" text-anchor="start">진입 기준을 바꾼 효과</text>
+<text x="740" y="245" font-size="15" font-weight="550" fill="#444" text-anchor="end">다른 실행 선택  ›</text>
+<text x="28" y="283" font-size="16" font-weight="440" fill="#222" text-anchor="start">일반 전략   /   확정 1분봉   ·   평가 구간과 자료 버전 일치</text>
+<text x="32" y="322" font-size="15" font-weight="650" fill="#222">팩터 · 진입 시 모두 충족</text>
+<text x="352" y="322" font-size="15" font-weight="650" fill="#222">원본 r1</text>
+<text x="487" y="322" font-size="15" font-weight="650" fill="#222">수정 r2</text>
+<text x="624" y="322" font-size="15" font-weight="650" fill="#222">차이</text>
+<path d="M28 331H740" stroke="#ccc"/>
+<text x="32" y="356" font-size="15" font-weight="450" fill="#222">RSI(14) 상향 통과</text>
+<text x="352" y="356" font-size="15" font-weight="450" fill="#222">30</text>
+<text x="487" y="356" font-size="15" font-weight="450" fill="#222">35</text>
+<text x="624" y="356" font-size="15" font-weight="650" fill="#222">기준 변경</text>
+<path d="M28 365H740" stroke="#ccc"/>
+<text x="32" y="389" font-size="15" font-weight="450" fill="#222">TEMA(9) 방향</text>
+<text x="352" y="389" font-size="15" font-weight="450" fill="#222">상승</text>
+<text x="487" y="389" font-size="15" font-weight="450" fill="#222">상승</text>
+<text x="624" y="389" font-size="15" font-weight="450" fill="#222">동일</text>
+<path d="M28 398H740" stroke="#ccc"/>
+<text x="32" y="422" font-size="15" font-weight="450" fill="#222">분봉 거래량</text>
+<text x="352" y="422" font-size="15" font-weight="450" fill="#222">0 초과</text>
+<text x="487" y="422" font-size="15" font-weight="450" fill="#222">0 초과</text>
+<text x="624" y="422" font-size="15" font-weight="450" fill="#222">동일</text>
+<path d="M28 431H740" stroke="#ccc"/>
+<text x="28" y="462" font-size="15" font-weight="450" fill="#222">공통 청산    RSI(14) 70 하향 통과</text>
+<text x="28" y="489" font-size="14" font-weight="450" fill="#222">같은 회차·종목·자금·체결 및 비용 모형으로 재생한 예시입니다.</text>
+<text x="28" y="526" font-size="21" font-weight="680" fill="#222" text-anchor="start">평가 결과</text>
+<path d="M28 545L740 545" stroke="#ccc" stroke-width="1" fill="none"/>
+<text x="28" y="575" font-size="16" font-weight="640" fill="#222" text-anchor="start">항목</text>
+<text x="383" y="575" font-size="16" font-weight="640" fill="#222" text-anchor="end">원본 A</text>
+<text x="548" y="575" font-size="16" font-weight="640" fill="#222" text-anchor="end">수정 B</text>
+<text x="738" y="575" font-size="16" font-weight="640" fill="#222" text-anchor="end">차이 B − A</text>
+<path d="M28 593L740 593" stroke="#ccc" stroke-width="1" fill="none"/>
+<text x="28" y="623" font-size="16" font-weight="450" fill="#222" text-anchor="start">비용 차감 순수익률</text>
+<text x="383" y="623" font-size="16" font-weight="450" fill="#222" text-anchor="end">+3.4%</text>
+<text x="548" y="623" font-size="16" font-weight="450" fill="#222" text-anchor="end">+4.1%</text>
+<text x="738" y="623" font-size="16" font-weight="640" fill="#222" text-anchor="end">+0.7%p</text>
+<path d="M28 641L740 641" stroke="#ccc" stroke-width="1" fill="none"/>
+<text x="28" y="671" font-size="16" font-weight="450" fill="#222" text-anchor="start">최대 낙폭 크기</text>
+<text x="383" y="671" font-size="16" font-weight="450" fill="#222" text-anchor="end">4.0%</text>
+<text x="548" y="671" font-size="16" font-weight="450" fill="#222" text-anchor="end">3.2%</text>
+<text x="738" y="671" font-size="16" font-weight="640" fill="#222" text-anchor="end">−0.8%p</text>
+<path d="M28 689L740 689" stroke="#ccc" stroke-width="1" fill="none"/>
+<text x="28" y="719" font-size="16" font-weight="450" fill="#222" text-anchor="start">청산 완료 거래</text>
+<text x="383" y="719" font-size="16" font-weight="450" fill="#222" text-anchor="end">31건</text>
+<text x="548" y="719" font-size="16" font-weight="450" fill="#222" text-anchor="end">24건</text>
+<text x="738" y="719" font-size="16" font-weight="640" fill="#222" text-anchor="end">−7건</text>
+<text x="28" y="780" font-size="20" font-weight="680" fill="#222" text-anchor="start">달라진 신호</text>
+<text x="740" y="780" font-size="15" font-weight="500" fill="#555" text-anchor="end">예시   ·   09:35 확정 분봉</text>
+<rect x="28" y="799" width="712" height="103" rx="4" fill="#f6f6f6" stroke="#bbb"/>
+<text x="48" y="832" font-size="17" font-weight="670" fill="#222" text-anchor="start">RSI   29 → 32</text>
+<text x="294" y="832" font-size="16" font-weight="570" fill="#222" text-anchor="start">r1   30 상향 통과</text>
+<text x="723" y="832" font-size="16" font-weight="570" fill="#222" text-anchor="end">r2   35 미도달</text>
+<text x="48" y="875" font-size="15" font-weight="450" fill="#222" text-anchor="start">TEMA 상승과 거래량 조건은 두 실행 모두 충족했습니다.</text>
+<text x="28" y="945" font-size="16" font-weight="600" fill="#222" text-anchor="start">팩터 통계  ›</text>
+<text x="164" y="945" font-size="15" font-weight="450" fill="#555" text-anchor="start">2종목 · 5분위 수익률 표본 부족</text>
+<text x="28" y="989" font-size="15" font-weight="570" fill="#222" text-anchor="start">개별 신호가 모의 주문·체결로 이어졌는지 보기  ›</text>
+</svg>

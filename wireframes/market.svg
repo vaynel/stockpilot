@@ -35,4 +35,7 @@
 <path d="M24 648L744 648" fill="none"/>
 <text x="40" y="680" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">사후 평가</text>
 <text x="728" y="680" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">평가일 대기</text>
+<text x="24" y="752" font-size="20" font-weight="600" fill="#000" stroke="none">시장 전망의 근거</text>
+<text x="24" y="794" font-size="14" fill="#000" stroke="none">KOSPI·KOSDAQ 일별 지수</text>
+<text x="744" y="794" font-size="14" text-anchor="end" fill="#000" stroke="none">KRX OPEN API · 기준 거래일 11.26 (예시)</text>
 </svg>

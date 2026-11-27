@@ -14,7 +14,7 @@
 <text x="728" y="248" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">11월 27일 · 오전</text>
 <path d="M24 264L744 264" fill="none"/>
 <text x="40" y="296" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">전략 버전</text>
-<text x="728" y="296" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">전고점 돌파 v2</text>
+<text x="728" y="296" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">예시 전략 A v2</text>
 <path d="M24 312L744 312" fill="none"/>
 <text x="40" y="344" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">입력 자료</text>
 <text x="728" y="344" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">오전 스냅샷</text>
@@ -27,8 +27,8 @@
 <text x="728" y="544" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">재생</text>
 <path d="M24 568L744 568" fill="none"/>
 <text x="40" y="600" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전략 신호</text>
-<text x="274" y="600" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">돌파 충족</text>
-<text x="728" y="600" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">돌파 충족</text>
+<text x="274" y="600" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">진입 충족</text>
+<text x="728" y="600" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">진입 충족</text>
 <path d="M24 624L744 624" fill="none"/>
 <text x="40" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">자료 버전</text>
 <text x="274" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오전 스냅샷</text>
