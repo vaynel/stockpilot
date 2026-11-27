@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">연구·백테스트</title><desc id="desc">가설을 등록하고 같은 조건에서 기준 전략과 성과를 비교한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">연구·백테스트</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">연구 조건</text>
+<text x="24" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">가설</text>
+<rect x="232" y="216" width="512" height="48" rx="4" fill="#fff"/>
+<text x="248" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">거래량 증가 뒤 돌파가 유지되는가</text>
+<text x="24" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">평가 기간</text>
+<rect x="232" y="280" width="512" height="48" rx="4" fill="#fff"/>
+<text x="248" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">2025.01 ~ 2025.12</text>
+<text x="24" y="376" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">비교 대상</text>
+<rect x="232" y="344" width="512" height="48" rx="4" fill="#fff"/>
+<text x="248" y="376" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기준 전략</text>
+<rect x="24" y="456" width="160" height="48" rx="4" fill="#000"/>
+<text x="104" y="488" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">전략 버전 등록</text>
+<rect x="200" y="456" width="152" height="48" rx="4" fill="#fff"/>
+<text x="276" y="488" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">백테스트 실행</text>
+<text x="24" y="536" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">실험 결과</text>
+<rect x="24" y="560" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">구분</text>
+<text x="274" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">수익률</text>
+<text x="728" y="592" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">최대 낙폭</text>
+<path d="M24 616L744 616" fill="none"/>
+<text x="40" y="648" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전고점 돌파 v2</text>
+<text x="274" y="648" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">+4.1%</text>
+<text x="728" y="648" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">-3.2%</text>
+<path d="M24 672L744 672" fill="none"/>
+<text x="40" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기준 전략</text>
+<text x="274" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">+2.8%</text>
+<text x="728" y="704" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">-2.9%</text>
+</svg>

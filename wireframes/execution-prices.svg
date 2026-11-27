@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">체결가 분석</title><desc id="desc">판단 당시 예상가와 실제 개별 체결가를 대조한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">거래·리포트</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">체결가 분석</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">조회 조건</text>
+<rect x="24" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기간 선택</text>
+<path d="m128 240 8 8 8-8" fill="none"/>
+<rect x="176" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="192" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
+<path d="m280 240 8 8 8-8" fill="none"/>
+<rect x="328" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="344" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전략 전체</text>
+<path d="m432 240 8 8 8-8" fill="none"/>
+<text x="24" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">매수 체결 비교</text>
+<rect x="24" y="336" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">수량</text>
+<text x="216" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">예상가</text>
+<text x="392" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">체결가</text>
+<text x="728" y="368" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">차이</text>
+<path d="M24 392L744 392" fill="none"/>
+<text x="40" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">4주</text>
+<text x="216" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,000원</text>
+<text x="392" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,000원</text>
+<text x="728" y="424" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">0원</text>
+<path d="M24 448L744 448" fill="none"/>
+<text x="40" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">1주</text>
+<text x="216" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,000원</text>
+<text x="392" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,100원</text>
+<text x="728" y="480" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">+100원</text>
+<rect x="24" y="552" width="160" height="48" rx="4" fill="#000"/>
+<text x="104" y="584" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">주문 상세 보기</text>
+</svg>

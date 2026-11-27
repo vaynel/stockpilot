@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">실시간 감시</title><desc id="desc">실제 시세를 받는 종목과 대기·중단 사유를 확인한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">실시간 감시</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">키움 주계좌</text>
+<rect x="24" y="216" width="352" height="96" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">감시 중</text>
+<text x="360" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">12종목</text>
+<rect x="392" y="216" width="352" height="96" rx="4" fill="#fff"/>
+<text x="408" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">대기</text>
+<text x="728" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">3종목</text>
+<text x="24" y="360" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">연결과 용량</text>
+<rect x="24" y="384" width="720" height="144" rx="4" fill="#fff"/>
+<text x="40" y="416" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">계좌 체결 통보</text>
+<text x="728" y="416" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">연결됨</text>
+<path d="M24 432L744 432" fill="none"/>
+<text x="40" y="464" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">시세 구독 단위</text>
+<text x="728" y="464" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">종목</text>
+<path d="M24 480L744 480" fill="none"/>
+<text x="40" y="512" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">마지막 수신</text>
+<text x="728" y="512" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">10:33:01</text>
+<text x="24" y="576" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">전략별 감시</text>
+<rect x="24" y="600" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="632" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">종목</text>
+<text x="274" y="632" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">시세</text>
+<text x="728" y="632" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">상태</text>
+<path d="M24 656L744 656" fill="none"/>
+<text x="40" y="688" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
+<text x="274" y="688" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">체결가</text>
+<text x="728" y="688" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">감시 중</text>
+<path d="M24 712L744 712" fill="none"/>
+<text x="40" y="744" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">현대차</text>
+<text x="274" y="744" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">호가</text>
+<text x="728" y="744" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">대기 · 서버 용량</text>
+</svg>

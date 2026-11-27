@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">주문·체결 이력</title><desc id="desc">자동주문과 직접 낸 개인 주문을 같은 기준으로 찾는다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">거래·리포트</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">주문·체결 이력</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">주문 검색</text>
+<rect x="24" y="216" width="152" height="48" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">키움 주계좌</text>
+<path d="m144 240 8 8 8-8" fill="none"/>
+<rect x="192" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="208" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기간 선택</text>
+<path d="m296 240 8 8 8-8" fill="none"/>
+<rect x="344" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="360" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">출처 전체</text>
+<path d="m448 240 8 8 8-8" fill="none"/>
+<rect x="496" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="512" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">종목 검색</text>
+<path d="m600 240 8 8 8-8" fill="none"/>
+<text x="24" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">주문 목록</text>
+<rect x="24" y="336" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">종목</text>
+<text x="216" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">방향·출처</text>
+<text x="392" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">상태</text>
+<text x="728" y="368" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">주문량</text>
+<path d="M24 392L744 392" fill="none"/>
+<text x="40" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
+<text x="216" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">매수 · 자동</text>
+<text x="392" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">부분 체결</text>
+<text x="728" y="424" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">10주</text>
+<path d="M24 448L744 448" fill="none"/>
+<text x="40" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">현대차</text>
+<text x="216" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">매도 · 개인</text>
+<text x="392" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전량 체결</text>
+<text x="728" y="480" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">1주</text>
+<rect x="24" y="552" width="136" height="48" rx="4" fill="#000"/>
+<text x="92" y="584" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">다음 페이지</text>
+</svg>

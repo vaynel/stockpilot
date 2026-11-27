@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">주문 상세</title><desc id="desc">한 주문의 접수부터 취소·개별 체결·원장 반영까지 확인한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">거래·리포트</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">주문 상세</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">삼성전자 · 자동 매수</text>
+<rect x="24" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">주문량</text>
+<text x="237" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">10주</text>
+<rect x="269" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="285" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">누적 체결량</text>
+<text x="482" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">5주</text>
+<rect x="514" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="530" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">잔량</text>
+<text x="727" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">0주</text>
+<text x="24" y="360" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">개별 체결</text>
+<rect x="24" y="384" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">시각</text>
+<text x="216" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">수량</text>
+<text x="392" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">체결가</text>
+<text x="728" y="416" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">원장</text>
+<path d="M24 440L744 440" fill="none"/>
+<text x="40" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">10:34</text>
+<text x="216" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">4주</text>
+<text x="392" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,000원</text>
+<text x="728" y="472" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">반영</text>
+<path d="M24 496L744 496" fill="none"/>
+<text x="40" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">10:35</text>
+<text x="216" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">1주</text>
+<text x="392" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,100원</text>
+<text x="728" y="528" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">반영</text>
+<text x="24" y="600" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">취소와 전달</text>
+<rect x="24" y="624" width="720" height="96" rx="4" fill="#fff"/>
+<text x="40" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">주문 상태</text>
+<text x="728" y="656" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">취소 완료 · 5주 취소</text>
+<path d="M24 672L744 672" fill="none"/>
+<text x="40" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">알림 결과</text>
+<text x="728" y="704" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">Discord 전달 완료</text>
+<rect x="24" y="768" width="160" height="48" rx="4" fill="#000"/>
+<text x="104" y="800" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">원래 판단 보기</text>
+<rect x="200" y="768" width="112" height="48" rx="4" fill="#fff"/>
+<text x="256" y="800" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">목록으로</text>
+</svg>

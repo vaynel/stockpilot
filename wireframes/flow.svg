@@ -1,0 +1,296 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="288" viewBox="0 0 768 288" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 288 -->
+<title id="title">계좌에서 주문 상세까지</title><desc id="desc">전체 계좌 요약, 계좌 대시보드, 주문 목록, 주문 상세 순서</desc>
+<rect x="0" y="0" width="768" height="288" rx="0" fill="#fff"/>
+<g transform="translate(24,24) scale(0.171875)"><rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="8" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 24h16 M40 32h16 M40 40h16" fill="none" stroke="#000"/>
+<text x="88" y="40" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<text x="744" y="40" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">홈</text>
+<path d="M0 64H768" fill="none" stroke="#000"/>
+<text x="24" y="104" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">전체 계좌 요약</text>
+<text x="744" y="104" font-size="14" font-weight="400" text-anchor="end" fill="#666" stroke="none">11월 26일 마감 기준</text>
+<rect x="24" y="120" width="352" height="208" rx="4" fill="#fff"/>
+<text x="40" y="152" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">전체 계좌 총자산 추이</text>
+<text x="40" y="190" font-size="28" font-weight="650" text-anchor="start" fill="#000" stroke="none">3,030,000원</text>
+<text x="40" y="212" font-size="12" font-weight="400" text-anchor="start" fill="#666" stroke="none">현금 910,000원 포함</text>
+<text x="76" y="228" font-size="12" font-weight="400" text-anchor="end" fill="#666" stroke="none">304만</text>
+<path d="M84 224H360" fill="none" stroke="#e6e6e6"/>
+<text x="76" y="260" font-size="12" font-weight="400" text-anchor="end" fill="#666" stroke="none">302만</text>
+<path d="M84 256H360" fill="none" stroke="#e6e6e6"/>
+<text x="76" y="292" font-size="12" font-weight="400" text-anchor="end" fill="#666" stroke="none">300만</text>
+<path d="M84 288H360" fill="none" stroke="#e6e6e6"/>
+<path d="M84,284.8 L95.5,278.4 L107,283.2 L118.5,273.6 L130,273.6 L164.5,276.8 L176,272 L187.5,270.4 L199,264 L210.5,265.6 L245,270.4 L256.5,268.8 L268,265.6 L279.5,268.8 L291,264 L325.5,257.6 L337,259.2 L348.5,249.6 L360,240" fill="none" stroke="#000"/>
+<circle cx="360" cy="240" r="3" fill="#000"/>
+<text x="84" y="312" font-size="12" font-weight="400" text-anchor="start" fill="#666" stroke="none">11.02</text>
+<text x="360" y="312" font-size="12" font-weight="400" text-anchor="end" fill="#666" stroke="none">11.26</text>
+<rect x="392" y="120" width="352" height="208" rx="4" fill="#fff"/>
+<text x="408" y="152" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">이번 주 운용 성과</text>
+<text x="728" y="152" font-size="14" font-weight="500" text-anchor="end" fill="#000" stroke="none">주간 리포트  ›</text>
+<text x="408" y="182" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">주간 누적 손익</text>
+<text x="408" y="216" font-size="28" font-weight="650" text-anchor="start" fill="#000" stroke="none">+15,000원</text>
+<path d="M408 232H728" fill="none" stroke="#e6e6e6"/>
+<text x="408" y="260" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">수익률 / 목표</text>
+<text x="728" y="260" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">+0.50% / 3.00%</text>
+<text x="408" y="302" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">목표까지 남은 손익</text>
+<text x="728" y="302" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">75,450원</text>
+<text x="24" y="368" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">진행 중인 전략</text>
+<text x="744" y="368" font-size="14" font-weight="400" text-anchor="end" fill="#666" stroke="none">11월 27일 13:20 기준</text>
+<text x="40" y="400" font-size="14" font-weight="500" text-anchor="start" fill="#666" stroke="none">전략 · 시작 회차</text>
+<text x="256" y="400" font-size="14" font-weight="500" text-anchor="start" fill="#666" stroke="none">종목 · 방향</text>
+<text x="448" y="400" font-size="14" font-weight="500" text-anchor="start" fill="#666" stroke="none">진행 상태</text>
+<path d="M24 408H744" fill="none" stroke="#e6e6e6"/>
+<text x="40" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">전고점 돌파</text>
+<text x="40" y="452" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">키움 주계좌 · 오전</text>
+<text x="256" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
+<text x="256" y="452" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매수</text>
+<text x="448" y="432" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">부분 체결</text>
+<text x="448" y="452" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">10주 중 4주 체결 · 잔량 6주</text>
+<text x="728" y="442" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
+<path d="M24 464H744" fill="none" stroke="#e6e6e6"/>
+<text x="40" y="488" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">이동평균선 이탈</text>
+<text x="40" y="508" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">한투 장기계좌 · 오전</text>
+<text x="256" y="488" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">현대차</text>
+<text x="256" y="508" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매도</text>
+<text x="448" y="488" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">매도 조건 감시 중</text>
+<text x="448" y="508" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">보유 3주 · 20일선 이탈 대기</text>
+<text x="728" y="498" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
+<path d="M24 520H744" fill="none" stroke="#e6e6e6"/>
+<text x="40" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">전고점 돌파</text>
+<text x="40" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">키움 주계좌 · 오전</text>
+<text x="256" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">SK하이닉스</text>
+<text x="256" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매수</text>
+<text x="448" y="544" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">매수 조건 감시 중</text>
+<text x="448" y="564" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">직전 고점 돌파 대기</text>
+<text x="728" y="554" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
+<path d="M24 576H744" fill="none" stroke="#e6e6e6"/>
+<text x="40" y="600" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">눌림목 반등</text>
+<text x="40" y="620" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">키움 주계좌 · 오후</text>
+<text x="256" y="600" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">NAVER</text>
+<text x="256" y="620" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">매수</text>
+<text x="448" y="600" font-size="14" font-weight="650" text-anchor="start" fill="#000" stroke="none">시세 구독 대기</text>
+<text x="448" y="620" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">증권사 구독 한도 도달</text>
+<text x="728" y="610" font-size="20" font-weight="400" text-anchor="end" fill="#666" stroke="none">›</text>
+<path d="M24 632H744" fill="none" stroke="#e6e6e6"/>
+<g transform="translate(0 296)">
+<text x="24" y="368" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">일일 손익 달력</text>
+<text x="744" y="368" font-size="14" font-weight="400" text-anchor="end" fill="#666" stroke="none">전체 계좌 합산 · 원</text>
+<rect x="24" y="384" width="48" height="40" rx="4" fill="#fff"/>
+<text x="48" y="412" font-size="20" font-weight="600" text-anchor="middle" fill="#000" stroke="none">‹</text>
+<text x="88" y="412" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">2026년 11월</text>
+<rect x="232" y="384" width="48" height="40" rx="4" fill="#fff"/>
+<text x="256" y="412" font-size="20" font-weight="600" text-anchor="middle" fill="#000" stroke="none">›</text>
+<text x="744" y="412" font-size="14" font-weight="600" text-anchor="end" fill="#000" stroke="none">● 일지 있음</text>
+<text x="72" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">일</text>
+<text x="176" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">월</text>
+<text x="280" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">화</text>
+<text x="384" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">수</text>
+<text x="488" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">목</text>
+<text x="592" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">금</text>
+<text x="696" y="448" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">토</text>
+<path d="M24 456H744" fill="none" stroke="#e6e6e6"/>
+<text x="32" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">1</text>
+<text x="136" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">2</text>
+<text x="136" y="496" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+2,000</text>
+<text x="240" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">3</text>
+<text x="240" y="496" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+4,000</text>
+<text x="344" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">4</text>
+<text x="344" y="496" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-3,000</text>
+<text x="448" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">5</text>
+<text x="448" y="496" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+6,000</text>
+<text x="552" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">6</text>
+<circle cx="616" cy="469" r="4" fill="#000" aria-label="11월 6일 일지 있음"><title>일지 있음</title></circle>
+<text x="552" y="496" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">0</text>
+<text x="656" y="474" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">7</text>
+<path d="M24 504H744" fill="none" stroke="#e6e6e6"/>
+<text x="32" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">8</text>
+<text x="136" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">9</text>
+<text x="136" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-2,000</text>
+<text x="240" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">10</text>
+<text x="240" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+3,000</text>
+<text x="344" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">11</text>
+<text x="344" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+1,000</text>
+<text x="448" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">12</text>
+<text x="448" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+4,000</text>
+<text x="552" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">13</text>
+<text x="552" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-1,000</text>
+<text x="656" y="522" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">14</text>
+<path d="M24 552H744" fill="none" stroke="#e6e6e6"/>
+<text x="32" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">15</text>
+<text x="136" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">16</text>
+<text x="136" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-3,000</text>
+<text x="240" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">17</text>
+<text x="240" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+1,000</text>
+<text x="344" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">18</text>
+<text x="344" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+2,000</text>
+<text x="448" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">19</text>
+<text x="448" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-2,000</text>
+<text x="552" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">20</text>
+<text x="552" y="592" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+3,000</text>
+<text x="656" y="570" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">21</text>
+<circle cx="720" cy="565" r="4" fill="#000" aria-label="11월 21일 일지 있음"><title>일지 있음</title></circle>
+<path d="M24 600H744" fill="none" stroke="#e6e6e6"/>
+<text x="32" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">22</text>
+<text x="136" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">23</text>
+<text x="136" y="640" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+4,000</text>
+<text x="240" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">24</text>
+<text x="240" y="640" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">-1,000</text>
+<text x="344" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">25</text>
+<text x="344" y="640" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+6,000</text>
+<text x="448" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">26</text>
+<circle cx="512" cy="613" r="4" fill="#000" aria-label="11월 26일 일지 있음"><title>일지 있음</title></circle>
+<text x="448" y="640" font-size="14" font-weight="600" text-anchor="start" fill="#000" stroke="none">+6,000</text>
+<text x="552" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">27</text>
+<text x="552" y="640" font-size="12" font-weight="400" text-anchor="start" fill="#666" stroke="none">집계 대기</text>
+<text x="656" y="618" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">28</text>
+<path d="M24 648H744" fill="none" stroke="#e6e6e6"/>
+<text x="32" y="666" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">29</text>
+<text x="136" y="666" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">30</text>
+<text x="136" y="688" font-size="12" fill="#666" stroke="none">예정</text>
+<path d="M24 696H744" fill="none" stroke="#e6e6e6"/>
+</g>
+</g>
+<text x="88" y="240" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">전체 계좌 요약</text>
+<path d="M168 112h32m-8-8 8 8-8 8" fill="none"/>
+<g transform="translate(216,24) scale(0.171875)"><rect width="768" height="1024"/>
+  <g id="account">
+    <rect x="24" y="16" width="48" height="48" rx="4"/>
+    <path d="M40 32h16 M40 40h16 M40 48h16"/>
+    <text x="88" y="48" stroke="none" fill="#000" font-size="20" font-weight="650">StockPilot</text>
+    <rect x="536" y="16" width="208" height="48" rx="4"/>
+    <text x="560" y="48" stroke="none" fill="#000" font-size="14">키움 주계좌</text>
+    <path d="m712 40 8 8 8-8" fill="none"/>
+    <path d="M0 80h768"/>
+    <text x="24" y="136" stroke="none" fill="#000" font-size="28" font-weight="700">계좌 대시보드</text>
+    <text x="24" y="168" stroke="none" fill="#000" font-size="14">자동매매 켜짐　·　증권사 연결됨</text>
+    <text x="744" y="168" text-anchor="end" stroke="none" fill="#666" font-size="14">잔고 기준 10:32</text>
+  </g>
+  <g id="attention">
+    <rect x="24" y="192" width="720" height="72" rx="4"/>
+    <text x="48" y="224" stroke="none" fill="#000" font-size="20" font-weight="600">접수 확인 중 1건</text>
+    <text x="48" y="248" stroke="none" fill="#666" font-size="14">삼성전자　자동 매수　2주</text>
+    <rect x="608" y="208" width="112" height="40" rx="4"/>
+    <text x="664" y="232" text-anchor="middle" stroke="none" fill="#000" font-size="14">주문 보기</text>
+  </g>
+  <g id="funds">
+    <text x="24" y="312" stroke="none" fill="#000" font-size="20" font-weight="650">자산과 운용 한도</text>
+    <rect x="24" y="336" width="720" height="168" rx="4"/>
+    <path d="M384 336v168 M24 424h720"/>
+    <g stroke="none" fill="#666" font-size="14"><text x="48" y="368">총평가액</text><text x="408" y="368">주문 가능 현금</text><text x="48" y="456">운용 한도</text><text x="408" y="456">남은 운용 한도</text></g>
+    <g text-anchor="end" stroke="none" fill="#000" font-weight="600" font-size="20"><text x="360" y="400">1,030,000원</text><text x="720" y="400">410,000원</text><text x="360" y="488">500,000원</text><text x="720" y="488">120,000원</text></g>
+  </g>
+  <g id="strategy">
+    <text x="24" y="552" stroke="none" fill="#000" font-size="20" font-weight="650">진행 중인 전략</text>
+    <text x="744" y="552" text-anchor="end" stroke="none" fill="#000" font-size="14">회차 보기 ›</text>
+    <text x="368" y="552" stroke="none" fill="#666" font-size="14">감시 중 12종목 · 대기 3종목</text>
+    <rect x="24" y="576" width="720" height="56" rx="4"/>
+    <text x="48" y="608" stroke="none" fill="#000" font-size="14">오전　전고점 돌파</text>
+    <text x="720" y="608" text-anchor="end" stroke="none" fill="#000" font-size="14">조건 감시 중</text>
+  </g>
+  <g id="orders">
+    <text x="24" y="680" stroke="none" fill="#000" font-size="20" font-weight="650">최근 주문</text>
+    <text x="744" y="680" text-anchor="end" stroke="none" fill="#000" font-size="14">전체 보기 ›</text>
+    <rect x="24" y="704" width="720" height="136" rx="4"/>
+    <path d="M24 744h720 M24 792h720"/>
+    <g fill="#666" stroke="none" font-size="14"><text x="48" y="728">시각</text><text x="152" y="728">종목</text><text x="312" y="728">방향</text><text x="416" y="728">출처</text><text x="504" y="728">상태</text><text x="720" y="728" text-anchor="end">주문량</text></g>
+    <g fill="#000" stroke="none" font-size="14"><text x="48" y="776">10:33</text><text x="152" y="776">삼성전자</text><text x="312" y="776">매수</text><text x="416" y="776">자동</text><text x="504" y="776">접수 확인 중</text><text x="720" y="776" text-anchor="end">2주</text>
+    <text x="48" y="824">09:48</text><text x="152" y="824">현대차</text><text x="312" y="824">매도</text><text x="416" y="824">개인</text><text x="504" y="824">전량 체결</text><text x="720" y="824" text-anchor="end">1주</text></g>
+  </g>
+  <g id="positions">
+    <text x="24" y="888" stroke="none" fill="#000" font-size="20" font-weight="650">보유 종목</text>
+    <rect x="24" y="912" width="720" height="88" rx="4"/>
+    <path d="M24 952h720"/>
+    <g fill="#666" stroke="none" font-size="14"><text x="48" y="936">종목</text><text x="424" y="936" text-anchor="end">수량</text><text x="720" y="936" text-anchor="end">평가손익</text></g>
+    <g fill="#000" stroke="none" font-size="14"><text x="48" y="984">SK하이닉스</text><text x="424" y="984" text-anchor="end">1주</text><text x="720" y="984" text-anchor="end">+12,000원</text></g>
+  </g>
+</g>
+<text x="280" y="240" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">계좌 대시보드</text>
+<path d="M360 112h32m-8-8 8 8-8 8" fill="none"/>
+<g transform="translate(408,24) scale(0.171875)"><rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">거래·리포트</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">주문·체결 이력</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">주문 검색</text>
+<rect x="24" y="216" width="152" height="48" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">키움 주계좌</text>
+<path d="m144 240 8 8 8-8" fill="none"/>
+<rect x="192" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="208" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">기간 선택</text>
+<path d="m296 240 8 8 8-8" fill="none"/>
+<rect x="344" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="360" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">출처 전체</text>
+<path d="m448 240 8 8 8-8" fill="none"/>
+<rect x="496" y="216" width="136" height="48" rx="4" fill="#fff"/>
+<text x="512" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">종목 검색</text>
+<path d="m600 240 8 8 8-8" fill="none"/>
+<text x="24" y="312" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">주문 목록</text>
+<rect x="24" y="336" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">종목</text>
+<text x="216" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">방향·출처</text>
+<text x="392" y="368" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">상태</text>
+<text x="728" y="368" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">주문량</text>
+<path d="M24 392L744 392" fill="none"/>
+<text x="40" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">삼성전자</text>
+<text x="216" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">매수 · 자동</text>
+<text x="392" y="424" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">부분 체결</text>
+<text x="728" y="424" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">10주</text>
+<path d="M24 448L744 448" fill="none"/>
+<text x="40" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">현대차</text>
+<text x="216" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">매도 · 개인</text>
+<text x="392" y="480" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전량 체결</text>
+<text x="728" y="480" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">1주</text>
+<rect x="24" y="552" width="136" height="48" rx="4" fill="#000"/>
+<text x="92" y="584" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">다음 페이지</text>
+</g>
+<text x="472" y="240" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">주문·체결 이력</text>
+<path d="M552 112h32m-8-8 8 8-8 8" fill="none"/>
+<g transform="translate(600,24) scale(0.171875)"><rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">거래·리포트</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">주문 상세</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">삼성전자 · 자동 매수</text>
+<rect x="24" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">주문량</text>
+<text x="237" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">10주</text>
+<rect x="269" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="285" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">누적 체결량</text>
+<text x="482" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">5주</text>
+<rect x="514" y="216" width="229" height="96" rx="4" fill="#fff"/>
+<text x="530" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">잔량</text>
+<text x="727" y="288" font-size="28" font-weight="650" text-anchor="end" fill="#000" stroke="none">0주</text>
+<text x="24" y="360" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">개별 체결</text>
+<rect x="24" y="384" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">시각</text>
+<text x="216" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">수량</text>
+<text x="392" y="416" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">체결가</text>
+<text x="728" y="416" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">원장</text>
+<path d="M24 440L744 440" fill="none"/>
+<text x="40" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">10:34</text>
+<text x="216" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">4주</text>
+<text x="392" y="472" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,000원</text>
+<text x="728" y="472" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">반영</text>
+<path d="M24 496L744 496" fill="none"/>
+<text x="40" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">10:35</text>
+<text x="216" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">1주</text>
+<text x="392" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">50,100원</text>
+<text x="728" y="528" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">반영</text>
+<text x="24" y="600" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">취소와 전달</text>
+<rect x="24" y="624" width="720" height="96" rx="4" fill="#fff"/>
+<text x="40" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">주문 상태</text>
+<text x="728" y="656" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">취소 완료 · 5주 취소</text>
+<path d="M24 672L744 672" fill="none"/>
+<text x="40" y="704" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">알림 결과</text>
+<text x="728" y="704" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">Discord 전달 완료</text>
+<rect x="24" y="768" width="160" height="48" rx="4" fill="#000"/>
+<text x="104" y="800" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">원래 판단 보기</text>
+<rect x="200" y="768" width="112" height="48" rx="4" fill="#fff"/>
+<text x="256" y="800" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">목록으로</text>
+</g>
+<text x="664" y="240" font-size="14" font-weight="600" text-anchor="middle" fill="#000" stroke="none">주문 상세</text>
+</svg>

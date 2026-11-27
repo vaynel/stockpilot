@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">주간 목표</title><desc id="desc">적용할 주와 목표 수익률을 저장한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">설정</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">주간 목표</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">목표 설정</text>
+<text x="24" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">적용 주</text>
+<rect x="232" y="216" width="512" height="48" rx="4" fill="#fff"/>
+<text x="248" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">11월 23일 주간</text>
+<text x="24" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">목표 수익률 (%)</text>
+<rect x="232" y="280" width="512" height="48" rx="4" fill="#fff"/>
+<text x="248" y="312" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">3</text>
+<rect x="24" y="392" width="160" height="48" rx="4" fill="#000"/>
+<text x="104" y="424" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">주간 목표 저장</text>
+<text x="24" y="472" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">적용 기준</text>
+<rect x="24" y="496" width="720" height="56" rx="4" fill="#fff"/>
+<text x="40" y="528" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">매주 초 운용 자산을 기준으로 해당 주의 목표를 계산한다.</text>
+</svg>

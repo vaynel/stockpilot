@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+  <!-- Tablet portrait, 768 × 1024. All account and order values are examples. -->
+  <title id="title">StockPilot 계좌 대시보드 와이어프레임</title>
+  <desc id="desc">키움 주계좌를 선택한 태블릿 화면. 접수 확인 중인 주문, 계좌 자산과 한도, 진행 중인 전략, 최근 주문, 보유 종목 순서다.</desc>
+  <rect width="768" height="1024"/>
+  <g id="account">
+    <rect x="24" y="16" width="48" height="48" rx="4"/>
+    <path d="M40 32h16 M40 40h16 M40 48h16"/>
+    <text x="88" y="48" stroke="none" fill="#000" font-size="20" font-weight="650">StockPilot</text>
+    <rect x="536" y="16" width="208" height="48" rx="4"/>
+    <text x="560" y="48" stroke="none" fill="#000" font-size="14">키움 주계좌</text>
+    <path d="m712 40 8 8 8-8" fill="none"/>
+    <path d="M0 80h768"/>
+    <text x="24" y="136" stroke="none" fill="#000" font-size="28" font-weight="700">계좌 대시보드</text>
+    <text x="24" y="168" stroke="none" fill="#000" font-size="14">자동매매 켜짐　·　증권사 연결됨</text>
+    <text x="744" y="168" text-anchor="end" stroke="none" fill="#666" font-size="14">잔고 기준 10:32</text>
+  </g>
+  <g id="attention">
+    <rect x="24" y="192" width="720" height="72" rx="4"/>
+    <text x="48" y="224" stroke="none" fill="#000" font-size="20" font-weight="600">접수 확인 중 1건</text>
+    <text x="48" y="248" stroke="none" fill="#666" font-size="14">삼성전자　자동 매수　2주</text>
+    <rect x="608" y="208" width="112" height="40" rx="4"/>
+    <text x="664" y="232" text-anchor="middle" stroke="none" fill="#000" font-size="14">주문 보기</text>
+  </g>
+  <g id="funds">
+    <text x="24" y="312" stroke="none" fill="#000" font-size="20" font-weight="650">자산과 운용 한도</text>
+    <rect x="24" y="336" width="720" height="168" rx="4"/>
+    <path d="M384 336v168 M24 424h720"/>
+    <g stroke="none" fill="#666" font-size="14"><text x="48" y="368">총평가액</text><text x="408" y="368">주문 가능 현금</text><text x="48" y="456">운용 한도</text><text x="408" y="456">남은 운용 한도</text></g>
+    <g text-anchor="end" stroke="none" fill="#000" font-weight="600" font-size="20"><text x="360" y="400">1,030,000원</text><text x="720" y="400">410,000원</text><text x="360" y="488">500,000원</text><text x="720" y="488">120,000원</text></g>
+  </g>
+  <g id="strategy">
+    <text x="24" y="552" stroke="none" fill="#000" font-size="20" font-weight="650">진행 중인 전략</text>
+    <text x="744" y="552" text-anchor="end" stroke="none" fill="#000" font-size="14">회차 보기 ›</text>
+    <text x="368" y="552" stroke="none" fill="#666" font-size="14">감시 중 12종목 · 대기 3종목</text>
+    <rect x="24" y="576" width="720" height="56" rx="4"/>
+    <text x="48" y="608" stroke="none" fill="#000" font-size="14">오전　전고점 돌파</text>
+    <text x="720" y="608" text-anchor="end" stroke="none" fill="#000" font-size="14">조건 감시 중</text>
+  </g>
+  <g id="orders">
+    <text x="24" y="680" stroke="none" fill="#000" font-size="20" font-weight="650">최근 주문</text>
+    <text x="744" y="680" text-anchor="end" stroke="none" fill="#000" font-size="14">전체 보기 ›</text>
+    <rect x="24" y="704" width="720" height="136" rx="4"/>
+    <path d="M24 744h720 M24 792h720"/>
+    <g fill="#666" stroke="none" font-size="14"><text x="48" y="728">시각</text><text x="152" y="728">종목</text><text x="312" y="728">방향</text><text x="416" y="728">출처</text><text x="504" y="728">상태</text><text x="720" y="728" text-anchor="end">주문량</text></g>
+    <g fill="#000" stroke="none" font-size="14"><text x="48" y="776">10:33</text><text x="152" y="776">삼성전자</text><text x="312" y="776">매수</text><text x="416" y="776">자동</text><text x="504" y="776">접수 확인 중</text><text x="720" y="776" text-anchor="end">2주</text>
+    <text x="48" y="824">09:48</text><text x="152" y="824">현대차</text><text x="312" y="824">매도</text><text x="416" y="824">개인</text><text x="504" y="824">전량 체결</text><text x="720" y="824" text-anchor="end">1주</text></g>
+  </g>
+  <g id="positions">
+    <text x="24" y="888" stroke="none" fill="#000" font-size="20" font-weight="650">보유 종목</text>
+    <rect x="24" y="912" width="720" height="88" rx="4"/>
+    <path d="M24 952h720"/>
+    <g fill="#666" stroke="none" font-size="14"><text x="48" y="936">종목</text><text x="424" y="936" text-anchor="end">수량</text><text x="720" y="936" text-anchor="end">평가손익</text></g>
+    <g fill="#000" stroke="none" font-size="14"><text x="48" y="984">SK하이닉스</text><text x="424" y="984" text-anchor="end">1주</text><text x="720" y="984" text-anchor="end">+12,000원</text></g>
+  </g>
+</svg>

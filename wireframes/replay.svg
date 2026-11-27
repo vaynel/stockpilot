@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1024" viewBox="0 0 768 1024" lang="ko" role="img" aria-labelledby="title desc" font-family="-apple-system,system-ui,sans-serif" fill="#fff" stroke="#000" stroke-width="1.5">
+<!-- 768 × 1024 -->
+<title id="title">과거 회차 재생</title><desc id="desc">당시 입력을 고정해 재계산한 신호와 원래 판단을 비교한다.</desc>
+<rect x="0" y="0" width="768" height="1024" rx="0" fill="#fff"/>
+<rect x="24" y="16" width="48" height="48" rx="4" fill="#fff"/>
+<path d="M40 32h16 M40 40h16 M40 48h16"/>
+<text x="88" y="48" font-size="20" font-weight="650" text-anchor="start" fill="#000" stroke="none">StockPilot</text>
+<path d="M0 80L768 80" fill="none"/>
+<text x="744" y="48" font-size="20" font-weight="600" text-anchor="end" fill="#000" stroke="none">전략·운용</text>
+<text x="24" y="144" font-size="28" font-weight="700" text-anchor="start" fill="#000" stroke="none">과거 회차 재생</text>
+<text x="24" y="192" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">원래 실행</text>
+<rect x="24" y="216" width="720" height="144" rx="4" fill="#fff"/>
+<text x="40" y="248" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">회차</text>
+<text x="728" y="248" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">11월 27일 · 오전</text>
+<path d="M24 264L744 264" fill="none"/>
+<text x="40" y="296" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">전략 버전</text>
+<text x="728" y="296" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">전고점 돌파 v2</text>
+<path d="M24 312L744 312" fill="none"/>
+<text x="40" y="344" font-size="14" font-weight="400" text-anchor="start" fill="#666" stroke="none">입력 자료</text>
+<text x="728" y="344" font-size="14" font-weight="550" text-anchor="end" fill="#000" stroke="none">오전 스냅샷</text>
+<rect x="24" y="408" width="192" height="48" rx="4" fill="#000"/>
+<text x="120" y="440" font-size="14" font-weight="600" text-anchor="middle" fill="#fff" stroke="none">고정 입력으로 재생</text>
+<text x="24" y="488" font-size="20" font-weight="600" text-anchor="start" fill="#000" stroke="none">비교 결과</text>
+<rect x="24" y="512" width="720" height="168" rx="4" fill="#fff"/>
+<text x="40" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">항목</text>
+<text x="274" y="544" font-size="14" font-weight="600" text-anchor="start" fill="#666" stroke="none">원래 회차</text>
+<text x="728" y="544" font-size="14" font-weight="600" text-anchor="end" fill="#666" stroke="none">재생</text>
+<path d="M24 568L744 568" fill="none"/>
+<text x="40" y="600" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">전략 신호</text>
+<text x="274" y="600" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">돌파 충족</text>
+<text x="728" y="600" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">돌파 충족</text>
+<path d="M24 624L744 624" fill="none"/>
+<text x="40" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">자료 버전</text>
+<text x="274" y="656" font-size="14" font-weight="400" text-anchor="start" fill="#000" stroke="none">오전 스냅샷</text>
+<text x="728" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#000" stroke="none">오전 스냅샷</text>
+</svg>
